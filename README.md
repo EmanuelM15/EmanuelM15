@@ -2,7 +2,7 @@
 
 These are the projects you will find in  my github
 
-Chatbot
+Applications
 -
 
 Currency Conversion APP
