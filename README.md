@@ -8,6 +8,9 @@ Applications
 Currency Conversion APP
 - https://github.com/EmanuelM15/Currency-Exchange-Application
 
+Chat Bot APP
+- https://github.com/EmanuelM15/ChatBotProject
+
 Websites I've Built
 -
 
